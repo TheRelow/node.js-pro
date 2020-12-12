@@ -1,0 +1,19 @@
+{
+  "name": "node.js-pro",
+  "version": "1.0.0",
+  "description": "Прохождение курса \"Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express) (2020)\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRelow/node.js-pro.git"
+  },
+  "author": "Egor Antropov <dev.antropov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRelow/node.js-pro/issues"
+  },
+  "homepage": "https://github.com/TheRelow/node.js-pro#readme"
+}
