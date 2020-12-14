@@ -4,7 +4,16 @@
   "description": "Прохождение курса \"Node JS. Практический курс. (Mongo, GraphQL, MySQL, Express) (2020)\"",
   "main": "index.js",
   "scripts": {
+    "express": "nodemon express/index.js"
   },
   "author": "Egor Antropov <dev.antropov@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
